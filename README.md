@@ -1,3 +1,5 @@
+This version modifies data loaders and trains the SVC-Net network on in-vivo dataset. 
+
 # SVC-Net
 Deep learning for Spatial Vascular Connectivity Network (SVC-Net).
 
